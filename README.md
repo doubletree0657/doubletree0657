@@ -26,10 +26,6 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 ## 🌌 About Me
 
-<table>
-<tr>
-<td valign="top" width="68%">
-
 I am a Java backend developer working around **Identity and Access Management**.
 
 My current technical direction is **Identity Security**.  
@@ -41,27 +37,14 @@ I am especially interested in how identity, access control, and permission bound
 - 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
 - ☕ Main stack: Java, Spring Boot, Spring Security
 - 🤖 Future direction: AI Security, Agent Identity, RAG Security
-- 🎧 Favorite Music: ヨルシカ / Yorushika
-- 🌸 ACGN: Tomoyo Daidouji
+- 🎧 Favorite Music: ヨルシカ / Yorushika <img src="./assets/yorushika-chibi.png" width="34" alt="Yorushika chibi" />
+- 🌸 ACGN: Tomoyo Daidouji <img src="./assets/tomoyo-chibi.png" width="38" alt="Tomoyo Daidouji chibi" />
 - 🌊 Mood: moonlight, blue night, quiet code
 
 > Music gives me atmosphere.  
 > Code gives me structure.  
 > Identity security gives me direction.  
 > AI security gives me the next question.
-
-</td>
-<td valign="top" width="32%" align="center">
-
-<img src="./assets/yorushika-chibi.jpg" width="155" alt="Yorushika chibi" />
-
-<br/><br/>
-
-<img src="./assets/tomoyo-chibi.jpg" width="165" alt="Tomoyo Daidouji chibi" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -111,13 +94,9 @@ Future direction:
 
 ---
 
-## 🎧 Night Mode
+## 🎧 Night Mode <img src="./assets/yorushika-logo.png" width="26" alt="Yorushika logo" />
 
 <div align="center">
-
-<img src="./assets/yorushika-logo.jpg" width="105" alt="Yorushika logo" />
-
-<br/><br/>
 
 ![Favorite Music](https://img.shields.io/badge/Favorite_Music-%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%2F%20Yorushika-7DD3FC?style=for-the-badge)
 ![Blue Night](https://img.shields.io/badge/Blue_Night-1E3A8A?style=for-the-badge)
