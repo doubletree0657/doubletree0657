@@ -14,7 +14,12 @@
 
 ### 🌙 Yorushika at night, code in moonlight.
 
-I like quiet music, blue nights, unfinished stories, and the feeling of writing code while the world slows down.
+I like quiet music, blue nights, literary stories, and the feeling of writing code while the world slows down.
+
+<br/>
+
+> 「だから僕は音楽を辞めた」  
+> That's Why I Gave Up on Music.
 
 </div>
 
@@ -32,7 +37,7 @@ I am also interested in how identity will evolve in the AI era, especially aroun
 - 🛡️ Focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
 - ☕ Main stack: Java, Spring Boot, Spring Security
 - 🤖 Learning: AI Security, AI Agents, RAG
-- 🎧 Music: Yorushika
+- 🎧 Favorite Music: ヨルシカ / Yorushika
 - 🌸 ACGN: Tomoyo Daidouji
 - 🌊 Mood: moonlight, blue night, quiet code
 
@@ -91,7 +96,7 @@ Future interests:
 
 <div align="center">
 
-![Yorushika](https://img.shields.io/badge/Music-Yorushika-7DD3FC?style=for-the-badge)
+![Favorite Music](https://img.shields.io/badge/Favorite_Music-%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%2F%20Yorushika-7DD3FC?style=for-the-badge)
 ![Blue Night](https://img.shields.io/badge/Blue_Night-1E3A8A?style=for-the-badge)
 ![Moonlight](https://img.shields.io/badge/Moonlight-0F172A?style=for-the-badge)
 ![Quiet Code](https://img.shields.io/badge/Quiet_Code-334155?style=for-the-badge)
@@ -101,22 +106,16 @@ Future interests:
 </div>
 
 ```text
-I like the atmosphere of Yorushika:
-blue, quiet, literary, lonely, and full of summer night wind.
-
-I want my GitHub to feel the same:
-not loud, but memorable.
+Yorushika atmosphere:
+blue, quiet, literary, lonely,
+like moonlight, summer wind, and unfinished stories.
 ```
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=doubletree0657&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubletree0657&layout=compact&theme=tokyonight&hide_border=true" />
+> 「だから僕は音楽を辞めた」  
+> 「春泥棒」  
+> 「ヒッチコック」
 
 </div>
 
