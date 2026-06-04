@@ -26,9 +26,6 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 ## 🌌 About Me
 
-<img align="right" src="./assets/tomoyo-chibi.png" width="34" alt="Tomoyo Daidouji chibi" />
-<img align="right" src="./assets/yorushika-chibi.png" width="30" alt="Yorushika chibi" />
-
 I am a Java backend developer working around **Identity and Access Management**.
 
 My current technical direction is **Identity Security**.  
@@ -43,8 +40,8 @@ Their quiet, blue, literary atmosphere is a big part of the mood I like.
 - 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
 - ☕ Main stack: Java, Spring Boot, Spring Security
 - 🤖 Future direction: AI Security, Agent Identity, RAG Security
-- 🎧 Favorite music: ヨルシカ / Yorushika
-- 🌸 Favorite anime character: 大道寺 知世 / Tomoyo Daidouji from カードキャプターさくら
+- 🎧 Favorite music: ヨルシカ / Yorushika&nbsp;&nbsp;<img src="./assets/yorushika-chibi.png" width="26" alt="Yorushika chibi" />
+- 🌸 Favorite anime character: 大道寺知世 / Tomoyo Daidouji&nbsp;&nbsp;<img src="./assets/tomoyo-chibi.png" width="30" alt="Tomoyo Daidouji chibi" />
 - 🌊 Mood: moonlight, blue night, quiet code
 
 > Music gives me atmosphere.  
@@ -100,9 +97,13 @@ Future direction:
 
 ---
 
-## 🎧 Night Mode <img src="./assets/yorushika-logo.png" width="24" alt="Yorushika logo" />
+## 🎧 Night Mode
 
 <div align="center">
+
+<img src="./assets/yorushika-logo.png" width="120" alt="Yorushika logo" />
+
+<br/><br/>
 
 ![Favorite Music](https://img.shields.io/badge/Favorite_Music-%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%2F%20Yorushika-7DD3FC?style=for-the-badge)
 ![Blue Night](https://img.shields.io/badge/Blue_Night-1E3A8A?style=for-the-badge)
