@@ -26,25 +26,42 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 ## 🌌 About Me
 
+<table>
+<tr>
+<td valign="top" width="68%">
+
 I am a Java backend developer working around **Identity and Access Management**.
 
-My current technical direction is **Identity Security**.
+My current technical direction is **Identity Security**.  
 I care about trust, permission boundaries, authentication, authorization, and secure backend systems.
 
-In the long term, I want to move closer to **AI Security**.
+In the long term, I want to move closer to **AI Security**.  
 I am especially interested in how identity, access control, and permission boundaries should work for **AI Agents**, **RAG applications**, and AI-native products.
 
-* 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
-* ☕ Main stack: Java, Spring Boot, Spring Security
-* 🤖 Future direction: AI Security, Agent Identity, RAG Security
-* 🎧 Favorite Music: ヨルシカ / Yorushika
-* 🌸 ACGN: Tomoyo Daidouji
-* 🌊 Mood: moonlight, blue night, quiet code
+- 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
+- ☕ Main stack: Java, Spring Boot, Spring Security
+- 🤖 Future direction: AI Security, Agent Identity, RAG Security
+- 🎧 Favorite Music: ヨルシカ / Yorushika
+- 🌸 ACGN: Tomoyo Daidouji
+- 🌊 Mood: moonlight, blue night, quiet code
 
-> Music gives me atmosphere.
-> Code gives me structure.
-> Identity security gives me direction.
+> Music gives me atmosphere.  
+> Code gives me structure.  
+> Identity security gives me direction.  
 > AI security gives me the next question.
+
+</td>
+<td valign="top" width="32%" align="center">
+
+<img src="./assets/yorushika-chibi.jpg" width="155" alt="Yorushika chibi" />
+
+<br/><br/>
+
+<img src="./assets/tomoyo-chibi.jpg" width="165" alt="Tomoyo Daidouji chibi" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,8 +71,8 @@ I am especially interested in how identity, access control, and permission bound
 
 ![Identity Security](https://img.shields.io/badge/Identity_Security-main_focus-1E3A8A?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/IAM-Identity_and_Access_Management-0F172A?style=for-the-badge)
-![Java Backend](https://img.shields.io/badge/Java_Backend-engineering-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-security_stack-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Java Backend](https://img.shields.io/badge/Java_Backend-engineering-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-security_stack-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-authorization-2563EB?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-authentication-38BDF8?style=for-the-badge)
 
@@ -98,6 +115,10 @@ Future direction:
 
 <div align="center">
 
+<img src="./assets/yorushika-logo.jpg" width="105" alt="Yorushika logo" />
+
+<br/><br/>
+
 ![Favorite Music](https://img.shields.io/badge/Favorite_Music-%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%2F%20Yorushika-7DD3FC?style=for-the-badge)
 ![Blue Night](https://img.shields.io/badge/Blue_Night-1E3A8A?style=for-the-badge)
 ![Moonlight](https://img.shields.io/badge/Moonlight-0F172A?style=for-the-badge)
@@ -115,8 +136,8 @@ like moonlight, summer wind, and unfinished stories.
 
 <div align="center">
 
-> 「だから僕は音楽を辞めた」
-> 「春泥棒」
+> 「だから僕は音楽を辞めた」  
+> 「春泥棒」  
 > 「ヒッチコック」
 
 </div>
