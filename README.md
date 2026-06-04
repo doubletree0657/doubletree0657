@@ -19,7 +19,6 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 <br/>
 
 > 「だから僕は音楽を辞めた」  
-> That's Why I Gave Up on Music.
 
 </div>
 
