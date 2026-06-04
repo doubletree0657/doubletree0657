@@ -40,18 +40,9 @@ Their quiet, blue, literary atmosphere is a big part of the mood I like.
 - 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
 - ☕ Main stack: Java, Spring Boot, Spring Security
 - 🤖 Future direction: AI Security, Agent Identity, RAG Security
-
-<p>
-  🎧 <b>Favorite music:</b> ヨルシカ / Yorushika
-  &nbsp;
-  <img src="./assets/yorushika-chibi.png" width="42" alt="Yorushika chibi" />
-  <br/>
-  🌸 <b>Favorite anime character:</b> 大道寺知世 / Tomoyo Daidouji
-  &nbsp;
-  <img src="./assets/tomoyo-chibi.png" width="46" alt="Tomoyo Daidouji chibi" />
-  <br/>
-  🌊 <b>Mood:</b> moonlight, blue night, quiet code
-</p>
+- 🎧 Favorite music: ヨルシカ / Yorushika
+- 🌸 Favorite anime character: 大道寺知世 / Tomoyo Daidouji
+- 🌊 Mood: moonlight, blue night, quiet code
 
 > Music gives me atmosphere.  
 > Code gives me structure.  
@@ -111,6 +102,12 @@ Future direction:
 <div align="center">
 
 <img src="./assets/yorushika-logo.png" width="130" alt="Yorushika logo" />
+
+<br/><br/>
+
+<img src="./assets/yorushika-chibi.png" width="58" alt="Yorushika chibi" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tomoyo-chibi.png" width="62" alt="Tomoyo Daidouji chibi" />
 
 <br/><br/>
 
