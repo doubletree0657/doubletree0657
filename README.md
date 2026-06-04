@@ -26,19 +26,25 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 ## 🌌 About Me
 
+<img align="right" src="./assets/tomoyo-chibi.png" width="34" alt="Tomoyo Daidouji chibi" />
+<img align="right" src="./assets/yorushika-chibi.png" width="30" alt="Yorushika chibi" />
+
 I am a Java backend developer working around **Identity and Access Management**.
 
 My current technical direction is **Identity Security**.  
 I care about trust, permission boundaries, authentication, authorization, and secure backend systems.
 
 In the long term, I want to move closer to **AI Security**.  
-I am especially interested in how identity, access control, and permission boundaries should work for **AI Agents**, **RAG applications**, and AI-native products.
+I am especially interested in **Agent Identity**, permission boundaries for autonomous systems, and how IAM may evolve in AI-native products.
+
+I also love Japanese ACGN culture and the music of **ヨルシカ / Yorushika**.  
+Their quiet, blue, literary atmosphere is a big part of the mood I like.
 
 - 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
 - ☕ Main stack: Java, Spring Boot, Spring Security
 - 🤖 Future direction: AI Security, Agent Identity, RAG Security
-- 🎧 Favorite Music: ヨルシカ / Yorushika <img src="./assets/yorushika-chibi.png" width="34" alt="Yorushika chibi" />
-- 🌸 ACGN: Tomoyo Daidouji <img src="./assets/tomoyo-chibi.png" width="38" alt="Tomoyo Daidouji chibi" />
+- 🎧 Favorite music: ヨルシカ / Yorushika
+- 🌸 Favorite anime character: 大道寺 知世 / Tomoyo Daidouji from カードキャプターさくら
 - 🌊 Mood: moonlight, blue night, quiet code
 
 > Music gives me atmosphere.  
@@ -94,7 +100,7 @@ Future direction:
 
 ---
 
-## 🎧 Night Mode <img src="./assets/yorushika-logo.png" width="26" alt="Yorushika logo" />
+## 🎧 Night Mode <img src="./assets/yorushika-logo.png" width="24" alt="Yorushika logo" />
 
 <div align="center">
 
