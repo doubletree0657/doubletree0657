@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+DoubleTree.;Identity+Security+%2F+Java+Backend.;Yorushika+keeps+me+company+at+night.;Learning+AI+Security%2C+Agents+and+RAG.;Code+quietly%2C+build+seriously." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+DoubleTree.;Identity+Security+%2F+Java+Backend.;Building+IAM+systems+with+security+in+mind.;Moving+toward+AI+Security+and+Agent+Identity.;Yorushika+keeps+me+company+at+night." />
 
 </div>
 
@@ -18,7 +18,7 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 <br/>
 
-> 「だから僕は音楽を辞めた」  
+> 「だから僕は音楽を辞めた」
 
 </div>
 
@@ -28,21 +28,23 @@ I like quiet music, blue nights, literary stories, and the feeling of writing co
 
 I am a Java backend developer working around **Identity and Access Management**.
 
-My main technical direction is **Identity Security**.  
+My current technical direction is **Identity Security**.
 I care about trust, permission boundaries, authentication, authorization, and secure backend systems.
 
-I am also interested in how identity will evolve in the AI era, especially around **AI Security**, **AI Agents**, and **RAG**.
+In the long term, I want to move closer to **AI Security**.
+I am especially interested in how identity, access control, and permission boundaries should work for **AI Agents**, **RAG applications**, and AI-native products.
 
-- 🛡️ Focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
-- ☕ Main stack: Java, Spring Boot, Spring Security
-- 🤖 Learning: AI Security, AI Agents, RAG
-- 🎧 Favorite Music: ヨルシカ / Yorushika
-- 🌸 ACGN: Tomoyo Daidouji
-- 🌊 Mood: moonlight, blue night, quiet code
+* 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
+* ☕ Main stack: Java, Spring Boot, Spring Security
+* 🤖 Future direction: AI Security, Agent Identity, RAG Security
+* 🎧 Favorite Music: ヨルシカ / Yorushika
+* 🌸 ACGN: Tomoyo Daidouji
+* 🌊 Mood: moonlight, blue night, quiet code
 
-> Music gives me atmosphere.  
-> Code gives me structure.  
+> Music gives me atmosphere.
+> Code gives me structure.
 > Identity security gives me direction.
+> AI security gives me the next question.
 
 ---
 
@@ -52,8 +54,8 @@ I am also interested in how identity will evolve in the AI era, especially aroun
 
 ![Identity Security](https://img.shields.io/badge/Identity_Security-main_focus-1E3A8A?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/IAM-Identity_and_Access_Management-0F172A?style=for-the-badge)
-![Java Backend](https://img.shields.io/badge/Java_Backend-engineering-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-security_stack-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Java Backend](https://img.shields.io/badge/Java_Backend-engineering-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-security_stack-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-authorization-2563EB?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-authentication-38BDF8?style=for-the-badge)
 
@@ -70,23 +72,24 @@ Main direction:
 
 ---
 
-## 🤖 Learning Toward AI Security
+## 🤖 Toward AI Security
 
 <div align="center">
 
-![AI Security](https://img.shields.io/badge/AI_Security-learning-8B5CF6?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-interested-06B6D4?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-learning-0EA5E9?style=for-the-badge)
+![AI Security](https://img.shields.io/badge/AI_Security-future_direction-8B5CF6?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-identity_boundary-06B6D4?style=for-the-badge)
+![RAG Security](https://img.shields.io/badge/RAG_Security-learning-0EA5E9?style=for-the-badge)
 ![LLM Applications](https://img.shields.io/badge/LLM_Applications-exploring-111827?style=for-the-badge)
 
 </div>
 
 ```text
-Future interests:
+Future direction:
 ├── Identity for AI agents
 ├── Permission boundaries for autonomous systems
+├── Authentication and authorization in AI-native products
 ├── RAG application security
-└── Authentication and authorization in AI-native products
+└── AI security from an IAM perspective
 ```
 
 ---
@@ -112,8 +115,8 @@ like moonlight, summer wind, and unfinished stories.
 
 <div align="center">
 
-> 「だから僕は音楽を辞めた」  
-> 「春泥棒」  
+> 「だから僕は音楽を辞めた」
+> 「春泥棒」
 > 「ヒッチコック」
 
 </div>
