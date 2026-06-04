@@ -37,42 +37,21 @@ I am especially interested in **Agent Identity**, permission boundaries for auto
 I also love Japanese ACGN culture and the music of **ヨルシカ / Yorushika**.  
 Their quiet, blue, literary atmosphere is a big part of the mood I like.
 
-<table>
-  <tr>
-    <td width="28">🛡️</td>
-    <td><b>Current focus:</b> IAM, OAuth2, OIDC, RBAC, MFA, SCIM</td>
-    <td width="48"></td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td><b>Main stack:</b> Java, Spring Boot, Spring Security</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>🤖</td>
-    <td><b>Future direction:</b> AI Security, Agent Identity, RAG Security</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>🎧</td>
-    <td><b>Favorite music:</b> ヨルシカ / Yorushika</td>
-    <td align="center">
-      <img src="./assets/yorushika-chibi.png" width="28" alt="Yorushika chibi" />
-    </td>
-  </tr>
-  <tr>
-    <td>🌸</td>
-    <td><b>Favorite anime character:</b> 大道寺知世 / Tomoyo Daidouji</td>
-    <td align="center">
-      <img src="./assets/tomoyo-chibi.png" width="32" alt="Tomoyo Daidouji chibi" />
-    </td>
-  </tr>
-  <tr>
-    <td>🌊</td>
-    <td><b>Mood:</b> moonlight, blue night, quiet code</td>
-    <td></td>
-  </tr>
-</table>
+- 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
+- ☕ Main stack: Java, Spring Boot, Spring Security
+- 🤖 Future direction: AI Security, Agent Identity, RAG Security
+
+<p>
+  🎧 <b>Favorite music:</b> ヨルシカ / Yorushika
+  &nbsp;
+  <img src="./assets/yorushika-chibi.png" width="42" alt="Yorushika chibi" />
+  <br/>
+  🌸 <b>Favorite anime character:</b> 大道寺知世 / Tomoyo Daidouji
+  &nbsp;
+  <img src="./assets/tomoyo-chibi.png" width="46" alt="Tomoyo Daidouji chibi" />
+  <br/>
+  🌊 <b>Mood:</b> moonlight, blue night, quiet code
+</p>
 
 > Music gives me atmosphere.  
 > Code gives me structure.  
@@ -131,7 +110,7 @@ Future direction:
 
 <div align="center">
 
-<img src="./assets/yorushika-logo.png" width="120" alt="Yorushika logo" />
+<img src="./assets/yorushika-logo.png" width="130" alt="Yorushika logo" />
 
 <br/><br/>
 
