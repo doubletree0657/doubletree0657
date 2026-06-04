@@ -37,18 +37,42 @@ I am especially interested in **Agent Identity**, permission boundaries for auto
 I also love Japanese ACGN culture and the music of **ヨルシカ / Yorushika**.  
 Their quiet, blue, literary atmosphere is a big part of the mood I like.
 
-- 🛡️ Current focus: IAM, OAuth2, OIDC, RBAC, MFA, SCIM
-- ☕ Main stack: Java, Spring Boot, Spring Security
-- 🤖 Future direction: AI Security, Agent Identity, RAG Security
-- 🎧 Favorite music: ヨルシカ / Yorushika
-- 🌸 Favorite anime character: 大道寺知世 / Tomoyo Daidouji
-- 🌊 Mood: moonlight, blue night, quiet code
-
-<p align="left">
-  <img src="./assets/yorushika-chibi.png" width="24" alt="Yorushika chibi" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tomoyo-chibi.png" width="28" alt="Tomoyo Daidouji chibi" />
-</p>
+<table>
+  <tr>
+    <td width="28">🛡️</td>
+    <td><b>Current focus:</b> IAM, OAuth2, OIDC, RBAC, MFA, SCIM</td>
+    <td width="48"></td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td><b>Main stack:</b> Java, Spring Boot, Spring Security</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>Future direction:</b> AI Security, Agent Identity, RAG Security</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>🎧</td>
+    <td><b>Favorite music:</b> ヨルシカ / Yorushika</td>
+    <td align="center">
+      <img src="./assets/yorushika-chibi.png" width="28" alt="Yorushika chibi" />
+    </td>
+  </tr>
+  <tr>
+    <td>🌸</td>
+    <td><b>Favorite anime character:</b> 大道寺知世 / Tomoyo Daidouji</td>
+    <td align="center">
+      <img src="./assets/tomoyo-chibi.png" width="32" alt="Tomoyo Daidouji chibi" />
+    </td>
+  </tr>
+  <tr>
+    <td>🌊</td>
+    <td><b>Mood:</b> moonlight, blue night, quiet code</td>
+    <td></td>
+  </tr>
+</table>
 
 > Music gives me atmosphere.  
 > Code gives me structure.  
